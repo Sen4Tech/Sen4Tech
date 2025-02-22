@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a software engineering
+I am a Software Engineering
 
 - 🌱 I'm currently learning ...
   - Progress Open Edge
