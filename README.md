@@ -4,10 +4,10 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a computer engineering student, expanding my knowledge in both front-end and back-end development. I love to learn and build something new, productive, innovative and creative.
+I am a software engineering
 
 - 🌱 I'm currently learning ...
-  - React Native
+  - Progress Open Edge
   - Vue.js
   - Go
 - 👯 I'm looking forward to collaborate on open source projects.
