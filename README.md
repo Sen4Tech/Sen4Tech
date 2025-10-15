@@ -9,7 +9,6 @@ I am a Software Engineering
 - 🌱 I'm currently learning ...
   - Progress Open Edge
   - Vue.js
-  - Go
 - 👯 I'm looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help
 - 📫 Reach out to me at: [LinkedIn](https://linkedin.com/in/Oktavianus)
