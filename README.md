@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,30:090979,70:00d4ff,100:4ade80&height=220&section=header&text=Oktavianus&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=✦%20Software%20Engineer%20·%20Full%20Stack%20Developer%20✦&descAlignY=63&descColor=00d4ff&descSize=18&stroke=ffffff&strokeWidth=0"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,30:090979,70:00d4ff,100:4ade80&height=220&section=header&text=Oktavianus&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=✦%20Software%20Engineer%20·%20Full%20Stack%20Developer%20✦&descAlignY=63&descColor=00d4ff&descSize=18"/>
 </div>
 
 <div align="center">
@@ -27,7 +27,7 @@
 
 <img align="right" width="320px" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif"/>
 
-<h2>👨‍💻 About Me</h2>
+## 👨‍💻 About Me
 
 <p>
   <img src="https://img.shields.io/badge/Role-Software%20Engineer-00d4ff?style=flat-square&logo=code&logoColor=white"/>
@@ -35,26 +35,15 @@
   <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-orange?style=flat-square"/>
 </p>
 
-```javascript
-const okta = {
-  pronouns   : "He/Him",
-  code       : ["JavaScript", "Python", "C#", "Java"],
-  frameworks : ["React", "Vue.js", "Nuxt", ".NET"],
-  learning   : ["Progress Open Edge", "Vue.js Advanced"],
-  hobbies    : ["Coding 💻", "Coffee ☕", "Open Source 🌍"],
-  motto      : "Code. Build. Ship. Repeat. 🔁",
-  funFact    : "I debug with console.log and I'm not ashamed 😄"
-};
-` ` `
-
-<br clear="right"/>
-
 - 🚀 **Software Engineer** based in **Indonesia 🇮🇩**
 - 🌱 Currently mastering **Progress Open Edge** & **Vue.js**
 - 👯 Open to collaborate on **Open Source Projects**
 - 💬 Ask me about **React, Vue, .NET, Python**
 - 📫 Reach me: [linkedin.com/in/oktavianuschen](https://linkedin.com/in/oktavianuschen)
 - ⚡ Fun fact: *I turn coffee into code!* ☕
+- 💡 Motto: **"Code. Build. Ship. Repeat. 🔁"**
+
+<br clear="right"/>
 
 ---
 
