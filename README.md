@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=600&height=50&lines=🚀+Full+Stack+Developer+from+Indonesia;💻+React+·+Vue.js+·+.NET+·+Python;🌱+Always+Learning%2C+Always+Growing;✨+Turning+Ideas+into+Reality;☕+Powered+by+Coffee+%26+Passion"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=600&height=50&lines=🚀+Full+Stack+Developer+from+Indonesia;💻+React+·+FastAPI+·+.NET+·+Python;🌱+Always+Learning%2C+Always+Growing;✨+Turning+Ideas+into+Reality;☕+Powered+by+Coffee+%26+Passion"/>
 </div>
 
 <br/>
@@ -36,9 +36,9 @@
 </p>
 
 - 🚀 **Software Engineer** based in **Indonesia 🇮🇩**
-- 🌱 Currently mastering **Progress Open Edge** & **Vue.js**
+- 🌱 Currently mastering **FastAPI** & **React.js**
 - 👯 Open to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, Vue, .NET, Python**
+- 💬 Ask me about **React, FastAPI, Python, .NET**
 - 📫 Reach me: [linkedin.com/in/oktavianuschen](https://linkedin.com/in/oktavianuschen)
 - ⚡ Fun fact: *I turn coffee into code!* ☕
 - 💡 Motto: **"Code. Build. Ship. Repeat. 🔁"**
@@ -62,6 +62,7 @@
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -73,6 +74,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **🔧 Dev Tools**
 
